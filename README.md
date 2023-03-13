@@ -27,8 +27,8 @@
 
 
 - 🔭 I’m currently learning : Java Development
-- 👯 I’m looking to collaborate on Linkedin
-- 💬 Ask me about : Data Structures and Algorithms, JavaScript, Java
+- 👯 I’m looking for job
+- 💬 Ask me about : Data Structures and Algorithms, SpringBoot, Java
 - 📫 How to reach me rupaktyagi21@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
